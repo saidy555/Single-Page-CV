@@ -1,2 +1,10 @@
 # Single-Page-CV
-my attempt at creating Single-Page CV project from roadmap.sh frontend projects
+
+This project is part of roadmap.sh Frontend roadmap projects.
+
+This is a single page cv written in html to showcase the use of:
+
+- Semantic HTML
+- SEO Meta Tags
+- Open Graph (OG) Tags
+- Favicon
